@@ -8,7 +8,8 @@ Esta aplicación web, creada con Streamlit, permite la visualización interactiv
 La app ofrece funcionalidades para:  
 - Visualizar datos tabulares de forma dinámica.  
 - Generar histogramas de variables numéricas para analizar distribuciones.
- - Cargar archivos CSV personalizados para análisis ad-hoc.
+- Crear gráficos de dispersión para explorar relaciones entre variables. 
+- Cargar archivos CSV personalizados para análisis ad-hoc.
 
 Está diseñada para facilitar el análisis exploratorio de datos sin necesidad de conocimientos avanzados en programación o análisis de datos.
 
