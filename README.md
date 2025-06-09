@@ -1,6 +1,8 @@
 # sprint7-webapp
 Proyecto Sprint 7
 
+La aplicación fue desplegada en la plataforma de **Render** y se puede visualizar en el siguiente link: https://sprint7-webapp.onrender.com/
+
 # Explorador de Datos de Autos en Venta
 
 Esta aplicación web, creada con Streamlit, permite la visualización interactiva y exploración de conjuntos de datos de anuncios de venta de coches. 
